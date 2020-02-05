@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aliroom</string>
+    <string name="strorage_access_required">Storage access is required to Read and Write data.</string>
+    <string name="ok">Okhelloe</string>
+    <string name="Strorage_permission_available">Storage Access  available</string>
+    <string name="storage_access_required">Storage access required</string>
+    <string name="storage_permission_not_available">storage permission notavailable</string>
+    <string name="storage_permission_denied">storage denied</string>
+    <string name="storage_permission_granted">storagegrandted</string>
+</resources>
